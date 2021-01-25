@@ -14,3 +14,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     QuickAccessWallet
 
+PRODUCT_PACKAGES += \
+    ThemePicker
